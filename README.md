@@ -27,7 +27,7 @@ https://raon-studio.tistory.com/4
 ### 3. 사용법<br>
 
  <img src = "https://user-images.githubusercontent.com/75411735/121114645-03ffcf00-c84f-11eb-99fa-3158c6febde3.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121117962-fa2c9a80-c853-11eb-8f90-7f7c6fcc0f8c.png" width="250" height="450"><br>
-  #### 이 앱은 카카오톡을 연동하여하는 앱인만큼 카카오톡 로그인 후 주문이 가능하다.<br> 
+  #### 이 앱은 카카오톡을 연동해야하는 앱인만큼 카카오톡 로그인 후 주문이 가능하다.<br> 
  <img src = "https://user-images.githubusercontent.com/75411735/121117244-cac95e00-c852-11eb-97e1-7dcbabc46c9d.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121117326-ec2a4a00-c852-11eb-9c71-f21319521429.png" width="250" height="450"> 
  <img src = "https://user-images.githubusercontent.com/75411735/121119645-f77f7480-c856-11eb-8226-62f012c77e49.png" width="250" height="450"> <br> <img src = "https://user-images.githubusercontent.com/75411735/121122816-0bc67000-c85d-11eb-8d98-de152c5b0164.png" width="900" height="550">
 
