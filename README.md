@@ -33,7 +33,8 @@ https://raon-studio.tistory.com/4
 
 
  #### 주문을 하기 위해 카페를 먼저 선택해야한다. 카페선택을 클릭 후 여러 매장 중 원하는 매장에 들어간다. 주문할 메뉴를 선택 후 요청사항(필수 아닌 선택)을 입력하면 주문이 포스기로 들어간다. 주문한 내역은 주문내역에서 확인 가능하다. <br> firebase 페이지에 데이터가 실시간을 저장되고 포스기 앱에도 데이터가 저장되어 전달된다. <br><br> 
- <img src = "https://user-images.githubusercontent.com/75411735/121117449-1976f800-c853-11eb-9f4b-131bd8467855.png" width="250" height="500"> <br>
+ <img src = "https://user-images.githubusercontent.com/75411735/121117449-1976f800-c853-11eb-9f4b-131bd8467855.png" width="250" height="500"> <img src = "https://user-images.githubusercontent.com/75411735/121139631-edb83a00-c873-11eb-87a4-1ad685756a17.png" width="250" height="500">
+
  #### 랜덤, 문의 기능도 버튼클릭으로 사용가능하다.<br><br>
 
 ### 4. 아쉬운 점<br>
