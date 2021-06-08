@@ -19,7 +19,6 @@ https://raon-studio.tistory.com/4
   ####  &nbsp; 가게에 문의를 할 수 있는 기능<br>
       단층으로 되어있는 가게가 아닌 여러 층으로 구성되는 카페에서 문의를 위해 이동하는 번거로움을 줄여줄 수 있는
       편리함을 준다. 앉아서 카운터로 문의하는 편리함을 느낄 수 있을 것이다.
-https://user-images.githubusercontent.com/75411735/121124913-ad02f580-c860-11eb-8f65-c106d97d2e63.mp4
 
 
 
