@@ -19,25 +19,35 @@ https://raon-studio.tistory.com/4
   ####  &nbsp; 가게에 문의를 할 수 있는 기능<br>
       단층으로 되어있는 가게가 아닌 여러 층으로 구성되는 카페에서 문의를 위해 이동하는 번거로움을 줄여줄 수 있는
       편리함을 준다. 앉아서 카운터로 문의하는 편리함을 느낄 수 있을 것이다.
+https://user-images.githubusercontent.com/75411735/121124913-ad02f580-c860-11eb-8f65-c106d97d2e63.mp4
+
+
 
 
 ### 3. 사용법<br>
 
  <img src = "https://user-images.githubusercontent.com/75411735/121114645-03ffcf00-c84f-11eb-99fa-3158c6febde3.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121117962-fa2c9a80-c853-11eb-8f90-7f7c6fcc0f8c.png" width="250" height="450"><br>
   #### 이 앱은 카카오톡을 연동하여하는 앱인만큼 카카오톡 로그인 후 주문이 가능하다.<br> 
- <img src = "https://user-images.githubusercontent.com/75411735/121117244-cac95e00-c852-11eb-97e1-7dcbabc46c9d.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121117326-ec2a4a00-c852-11eb-9c71-f21319521429.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121119645-f77f7480-c856-11eb-8226-62f012c77e49.png" width="250" height="450"><br>
+ <img src = "https://user-images.githubusercontent.com/75411735/121117244-cac95e00-c852-11eb-97e1-7dcbabc46c9d.png" width="250" height="450"> <img src = "https://user-images.githubusercontent.com/75411735/121117326-ec2a4a00-c852-11eb-9c71-f21319521429.png" width="250" height="450"> 
+ <img src = "https://user-images.githubusercontent.com/75411735/121119645-f77f7480-c856-11eb-8226-62f012c77e49.png" width="250" height="450"> <br> <img src = "https://user-images.githubusercontent.com/75411735/121122816-0bc67000-c85d-11eb-8d98-de152c5b0164.png" width="900" height="550">
 
- #### 주문을 하기 위해 카페를 먼저 선택해야한다. 카페선택을 클릭 후 여러 매장 중 원하는 매장에 들어간다. 주문할 메뉴를 선택 후 요청사항(필수 아닌 선택)을 입력하면 주문이 포스기로 들어간다. 주문한 내역은 주문내역에서 확인 가능하다. 서로 다른 여러 매장에서 주문을 하여도 한번에 볼 수 있다. firebase 페이지에서도 데이터가 실시간을 저장되는 것을 확인할 수 있다. <br><br> <img src = "https://user-images.githubusercontent.com/75411735/121117449-1976f800-c853-11eb-9f4b-131bd8467855.png" width="250" height="450"> 
- #### 랜덤, 문의 기능도 버튼클릭으로 사용가능하다.<br>
+
+ #### 주문을 하기 위해 카페를 먼저 선택해야한다. 카페선택을 클릭 후 여러 매장 중 원하는 매장에 들어간다. 주문할 메뉴를 선택 후 요청사항(필수 아닌 선택)을 입력하면 주문이 포스기로 들어간다. 주문한 내역은 주문내역에서 확인 가능하다. <br> firebase 페이지에 데이터가 실시간을 저장되고 포스기 앱에도 데이터가 저장되어 전달된다. <br><br> 
+ <img src = "https://user-images.githubusercontent.com/75411735/121117449-1976f800-c853-11eb-9f4b-131bd8467855.png" width="250" height="500"> <br>
+ #### 랜덤, 문의 기능도 버튼클릭으로 사용가능하다.<br><br>
 
 ### 4. 아쉬운 점<br>
-  ####  &nbsp; 비용의 문제<br>
-    앱의 실행 순서에서 가장 마지막 단계인 알림을 받는 기능을 구현하고자 하였다. 하지만 카카오톡 알림을 가져와 프로그래밍하는 
-    과정에서 알림 사용을 위해서는 비용을 지불해야된다. 비용지불의 문제로 앱에 알림을 실행시키지못한 것이 아쉬웠다. 
+   ####  &nbsp; 비용의 문제<br>
+     앱의 실행 순서에서 가장 마지막 단계인 알림을 받는 기능을 구현하고자 하였다. 하지만 카카오톡 알림을 가져와 프로그래밍하는 
+     과정에서 알림 사용을 위해서는 비용을 지불해야된다. 비용지불의 문제로 앱에 알림을 실행시키지못한 것이 아쉬웠다. 
    ####  &nbsp; 머신러닝 시도 중 성공하지 못함<br>
-    또 다른 아쉬운 점은 사용자가 특정 음료를 자주 주문하면 그 음료와 비슷한 종류의 음료들을 추천해주는 기능을 넣으려하였다.
-    하지만 머신러닝을 하는 과정에서 음료에 대한 대량의 데이터을 모으지 못하였다. 결국 영화데이터를 다운받아 돌려보게 되었다. 
-    데이터를 양의 부족으로 카페음료로 돌려보지 못한 것에 대한 아쉬움이 남는다.
+     또 다른 아쉬운 점은 사용자가 특정 음료를 자주 주문하면 그 음료와 비슷한 종류의 음료들을 추천해주는 기능을 넣으려하였다.
+     하지만 머신러닝을 하는 과정에서 음료에 대한 대량의 데이터을 모으지 못하였다. 결국 영화데이터를 다운받아 돌려보게 되었다. 
+     데이터를 양의 부족으로 카페음료로 돌려보지 못한 것에 대한 아쉬움이 남는다.
+
+
+https://user-images.githubusercontent.com/75411735/121124950-b724f400-c860-11eb-9f3a-be455cafd91e.mp4
+
 
 ### 5. 앱의 수익창출방향<br>
 이 앱은 여러 브랜드가 모여있어서 많은 기업, 가게들과의 연결이 필요하다. 이 앱을 가게에 연결하여 중개수수료를 통하여 수익일 낼 생각이다. 또한 앱 하단에 광고를 넣어 광고수익을 내는 방향으로 생각하였다.
