@@ -1,5 +1,6 @@
 # Final-report
 
+
 https://raon-studio.tistory.com/4
 
 위 링크로 이동해서 코드를 실행하시고 RUN이나 LOGCAT에서 키해시를 찾아서 저희에게 보내주세요. <br>
@@ -54,3 +55,7 @@ https://user-images.githubusercontent.com/75411735/121124950-b724f400-c860-11eb-
 
 ### 5. 앱의 수익창출방향<br>
 이 앱은 여러 브랜드가 모여있어서 많은 기업, 가게들과의 연결이 필요하다. 이 앱을 가게에 연결하여 중개수수료를 통하여 수익을 낼 생각이다. 또한 앱 하단에 광고를 넣어 광고수익을 내는 방향으로 생각하였다.
+
+
+### 6. 최종 발표 영상<br>
+ https://www.youtube.com/watch?v=aUaPUpC2A5k
